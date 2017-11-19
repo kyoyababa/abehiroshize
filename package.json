@@ -1,0 +1,27 @@
+{
+  "name": "abehiroshize",
+  "version": "1.0.0",
+  "description": "Change web page layout as Japanese famous actor Hiroshi Abe's one.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp start"
+  },
+  "author": "kyoyababa",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-plugin-transform-object-assign": "^6.3.13",
+    "babel-plugin-transform-object-rest-spread": "^6.3.13",
+    "babel-preset-es2015": "^6.3.13",
+    "babelify": "^7.2.0",
+    "browserify": "^13.0.0",
+    "bundle": "^0.2.3",
+    "gulp": "^3.9.1",
+    "gulp-filter": "^4.0.0",
+    "gulp-plumber": "^1.1.0",
+    "jquery": "^3.1.1",
+    "run-sequence": "^1.2.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.6.1"
+  }
+}
